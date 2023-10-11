@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BiaZarpellon
-- 👀 I’m interested in study
+- 👋 oi, eu sou a Bianca 
+- 👀 estou interessada em estudar 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
